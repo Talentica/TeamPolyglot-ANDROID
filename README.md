@@ -1,1 +1,1 @@
-# TeamPolyglot-ANDROID-Forked
+# TeamPolyglot-ANDROID
